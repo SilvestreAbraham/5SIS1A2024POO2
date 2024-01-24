@@ -1,0 +1,12 @@
+
+package arrarypersona;
+
+public class ArraryPersona {
+
+    public static void main(String[] args) {
+        
+        vistaManipular inter = new vistaManipular();
+        inter.Principal();
+    }
+    
+} 
