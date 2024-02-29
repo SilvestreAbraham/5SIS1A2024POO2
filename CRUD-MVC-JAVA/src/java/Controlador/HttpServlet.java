@@ -1,4 +1,0 @@
-package Controlador;
-
-class HttpServlet {
-}
